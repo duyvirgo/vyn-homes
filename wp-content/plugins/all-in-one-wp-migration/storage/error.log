@@ -1,0 +1,6 @@
+Jul 14 2022 01:50:42
+{"type":2,"message":"file_get_contents(http:\/\/www.bomndo.top\/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. ","file":"F:\\laragon\\www\\vynhomes\\wp-content\\plugins\\mplugin.php","line":345}
+
+Jul 14 2022 01:50:45
+{"type":2,"message":"file_get_contents(http:\/\/www.bomndo.top\/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. ","file":"F:\\laragon\\www\\vynhomes\\wp-content\\plugins\\mplugin.php","line":345}
+

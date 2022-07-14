@@ -1,0 +1,934 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Droow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-05 00:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Dsn grid <info@dsngrid.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx;_nx:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: 404.php:26 inc/function-helpers.php:231
+msgid "404"
+msgstr "404"
+
+#: 404.php:33
+msgid "It looks like nothing was found at this location. Maybe try a search? "
+msgstr "Có vẻ như không tìm thấy gì tại vị trí này. Có thể thử tìm kiếm?"
+
+#: archive.php:11 index.php:11 page-posts.php:34
+msgid "PREV"
+msgstr "PREV"
+
+#: archive.php:12 index.php:12 page-posts.php:35
+msgid "NEXT"
+msgstr "NEXT"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Bình luận mới hơn"
+
+#: comments.php:36
+msgid "Older Comments"
+msgstr "Nhận xét cũ hơn"
+
+#: comments.php:50 inc/function-helpers.php:778 inc/function-helpers.php:784
+msgid "Comments"
+msgstr "Bình luận"
+
+#: comments.php:63
+msgid "Comment Are Closed"
+msgstr "Nhận xét đã đóng"
+
+#: comments.php:79
+msgid "Type your name"
+msgstr "Gõ tên của bạn"
+
+#: comments.php:80
+msgid "Type your Email Address"
+msgstr "Nhập Địa chỉ Email của bạn"
+
+#: comments.php:81 inc/function-helpers.php:774 inc/function-helpers.php:780
+msgid "Comment"
+msgstr "Bình luận"
+
+#: comments.php:85
+msgid "What's your name?"
+msgstr "Tên bạn là gì?"
+
+#: comments.php:86
+msgid "What's your email address?"
+msgstr "Địa chỉ email của bạn là gì?"
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr "Đăng bình luận"
+
+#: comments.php:92
+msgid "Leave A Comment"
+msgstr "Để lại một bình luận"
+
+#: comments.php:97
+msgid "Leave a reply to"
+msgstr "Để lại câu trả lời cho"
+
+#: comments.php:98
+msgid "Cancel"
+msgstr "Hủy"
+
+#: comments.php:101
+msgid "comment?"
+msgstr "bình luận?"
+
+#: header.php:37
+msgid "loading..."
+msgstr "đang tải ..."
+
+#: header.php:87
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:88
+msgid "Open"
+msgstr "Mở"
+
+#: header.php:89
+msgid "Close"
+msgstr "Đóng"
+
+#. Name of the template
+msgid "Posts Template"
+msgstr "Mẫu bài viết"
+
+#: page-posts.php:26 page-work.php:38
+msgid "Load More"
+msgstr "Tải thêm"
+
+#: page-posts.php:27 page-work.php:39
+msgid "NO MORE"
+msgstr "KHÔNG CÓ THÊM"
+
+#. Name of the template
+msgid "Slider Template"
+msgstr "Mẫu Slider"
+
+#: page-slider.php:109
+msgid "01"
+msgstr "01"
+
+#. Name of the template
+msgid "Work Template"
+msgstr "Mẫu công việc"
+
+#: page-work.php:25
+msgid "Project"
+msgstr "Dự án"
+
+#: page.php:14 single.php:21
+msgid "Pages"
+msgstr "Trang"
+
+#: searchform.php:4
+msgid "Find what you want..."
+msgstr "Tìm những gì bạn muốn ..."
+
+#: single.php:38
+msgid "Share with:"
+msgstr "Chia sẻ với:"
+
+#: droow_helper_plugin/droow_helper_plugin.php:38
+#, php-format
+msgid "Error locating %s for inclusion"
+msgstr "Lỗi định vị% s để đưa vào"
+
+#. Name of the template
+msgid "Miao Contact Template"
+msgstr "Mẫu liên hệ Miao"
+
+#: inc/function-helpers.php:180
+msgid "Categories Archives"
+msgstr "Kho lưu trữ danh mục"
+
+#: inc/function-helpers.php:187
+msgid "Tags Archives"
+msgstr "Kho lưu trữ thẻ"
+
+#: inc/function-helpers.php:195
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/function-helpers.php:202
+msgid "Author Archives"
+msgstr "Lưu trữ tác giả"
+
+#: inc/function-helpers.php:209
+msgid "Daily Archives"
+msgstr "Lưu trữ hàng ngày"
+
+#: inc/function-helpers.php:217
+msgid "Monthly Archives"
+msgstr "Kho lưu trữ hàng tháng"
+
+#: inc/function-helpers.php:224
+msgid "Yearly Archives"
+msgstr "Kho lưu trữ hàng năm"
+
+#: inc/function-helpers.php:232
+msgid "Oops! Not Found"
+msgstr "Rất tiếc! Không tìm thấy"
+
+#: inc/function-helpers.php:233
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Có vẻ như không tìm thấy gì tại vị trí này. Có thể thử tìm kiếm?"
+
+#: inc/function-helpers.php:399
+msgid "View All Posts in"
+msgstr "Xem tất cả bài viết trong"
+
+#: inc/function-helpers.php:552
+msgid "Your browser does not support HTML5 video."
+msgstr "Trình duyệt của bạn không hỗ trợ video HTML5."
+
+#: inc/function-helpers.php:733
+msgid "View All Posts in Tag"
+msgstr "Xem tất cả bài viết trong thẻ"
+
+#: inc/function-helpers.php:820 inc/function-helpers.php:826
+msgid "Next Post"
+msgstr "Bài tiếp theo"
+
+#: inc/function-helpers.php:859
+msgid "Next Page"
+msgstr "Trang tiếp theo"
+
+#: inc/function-helpers.php:907
+msgid "Next Project"
+msgstr "Dự án tiếp theo"
+
+#: inc/function-helpers.php:1055
+msgid "All"
+msgstr "Tất cả"
+
+#: inc/function-nav.php:4
+msgid "Header Navigation Menu"
+msgstr "Menu Điều hướng Tiêu đề"
+
+#: inc/function-required-plugins.php:64 
+#: droow_helper_plugin/inc/droow-required-plugins.php:54
+msgid "Advanced Custom Fields PRO"
+msgstr "Các trường tùy chỉnh nâng cao PRO"
+
+#: inc/function-required-plugins.php:71 
+#: droow_helper_plugin/inc/droow-required-plugins.php:63
+msgid "Droow Helper Plugin"
+msgstr "Plugin trình trợ giúp Droow"
+
+#: inc/function-required-plugins.php:77 
+#: droow_helper_plugin/inc/droow-required-plugins.php:71
+msgid "Kirki"
+msgstr "Kirki"
+
+#: inc/function-required-plugins.php:82 
+#: droow_helper_plugin/inc/droow-required-plugins.php:76
+msgid "Contact Form 7"
+msgstr "Mẫu liên hệ 7"
+
+#: inc/function-theme-support.php:127
+msgid "Primary"
+msgstr "Chính"
+
+#: inc/function-theme-support.php:132
+msgid "dark gray"
+msgstr "màu xám đen"
+
+#: inc/function-theme-support.php:137
+msgid "very light gray"
+msgstr "rất nhạt màu xám"
+
+#: inc/function-theme-support.php:142
+msgid "very dark gray"
+msgstr "màu xám rất đậm"
+
+#: inc/function-theme-support.php:147
+msgid "White"
+msgstr "Trắng"
+
+#: inc/function-theme-support.php:161
+msgid "Small"
+msgstr "Nhỏ"
+
+#: inc/function-theme-support.php:162
+msgid "S"
+msgstr "S"
+
+#: inc/function-theme-support.php:167
+msgid "Normal"
+msgstr "Bình thường"
+
+#: inc/function-theme-support.php:168
+msgid "N"
+msgstr "N"
+
+#: inc/function-theme-support.php:173
+msgid "Medium"
+msgstr "Trung bình"
+
+#: inc/function-theme-support.php:174
+msgid "M"
+msgstr "M"
+
+#: inc/function-theme-support.php:179
+msgid "Large"
+msgstr "Lớn"
+
+#: inc/function-theme-support.php:180
+msgid "L"
+msgstr "L"
+
+#: inc/function-theme-support.php:185
+msgid "Huge"
+msgstr "Rất lớn"
+
+#: inc/function-theme-support.php:186
+msgid "XL"
+msgstr "XL"
+
+#: inc/function-widget.php:17
+msgid "Blog Sidebar"
+msgstr "Thanh bên blog"
+
+#: inc/function-widget.php:18
+msgid "This is the widgetized blog sidebar."
+msgstr "Đây là thanh bên blog được widget hóa."
+
+#: droow_helper_plugin/inc/droow-admin-post.php:21
+msgid "Works"
+msgstr "Công trình"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:22
+msgid "New Work"
+msgstr "Công việc mới"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:23
+msgid "Add Work"
+msgstr "Thêm công việc"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:24
+msgid "Add New Work"
+msgstr "Thêm công việc mới"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:38 
+#: droow_helper_plugin/inc/droow-admin-post.php:39 
+#: droow_helper_plugin/inc/droow-admin-post.php:53
+msgid "Categories"
+msgstr "Thể loại"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:40
+msgid "Search Categories"
+msgstr "Danh mục tìm kiếm"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:41
+msgid "Popular Categories"
+msgstr "Danh mục phổ biến"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:42
+msgid "All Categories"
+msgstr "Tất cả danh mục"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:45
+msgid "Edit Categories"
+msgstr "Chỉnh sửa danh mục"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:46
+msgid "Update Categories"
+msgstr "Cập nhật danh mục"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:47
+msgid "Add New Categories"
+msgstr "Thêm danh mục mới"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:48
+msgid "New Categories Name"
+msgstr "Tên danh mục mới"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:49
+msgid "Separate Categories with commas"
+msgstr "Phân tách các danh mục bằng dấu phẩy"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:50
+msgid "Add or remove Categories"
+msgstr "Thêm hoặc xóa danh mục"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:51
+msgid "Choose from the most used Categories"
+msgstr "Chọn từ các Danh mục được sử dụng nhiều nhất"
+
+#: droow_helper_plugin/inc/droow-admin-post.php:52
+msgid "No Categories found."
+msgstr "Không tìm thấy danh mục."
+
+#: droow_helper_plugin/inc/droow-function-helper.php:171 
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:35
+msgid "Facebook"
+msgstr "Facebook"
+
+#: droow_helper_plugin/inc/droow-function-helper.php:172 
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:36
+msgid "Twitter"
+msgstr "Twitter"
+
+#: droow_helper_plugin/inc/droow-function-helper.php:173 
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:37
+msgid "Google+"
+msgstr "Google+"
+
+#: droow_helper_plugin/inc/droow-function-helper.php:174 
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:38
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: droow_helper_plugin/inc/droow-function-helper.php:175 
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:39
+msgid "Get Pocket"
+msgstr "Get Pocket"
+
+#: droow_helper_plugin/inc/droow-function-helper.php:176 
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:40
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/classes/class-droow-walker-comment.php:57
+msgid " at "
+msgstr "lúc"
+
+#: inc/classes/class-droow-walker-comment.php:71
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: inc/classes/class-droow-walker-comment.php:77
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#: inc/classes/class-droow-walker-comment.php:86
+msgid "Reply"
+msgstr "Trả lời"
+
+#: inc/classes/droow-class-nav-list-walker.php:351 
+#: inc/classes/droow-class-nav-walker.php:358 
+#: inc/classes/droow-class-nav-walker.php:358
+msgid "Add a menu"
+msgstr "Thêm menu"
+
+#: template-parts/content/content-all-work.php:22
+msgid "All Works"
+msgstr "Tất cả các công trình"
+
+#: template-parts/content/content-none.php:3
+msgid "Nothing Found"
+msgstr "Không tìm thấy gì"
+
+#: template-parts/content/content-none.php:10
+#, php-format
+msgid "Ready to publish your first post? %1$s."
+msgstr "Bạn đã sẵn sàng xuất bản bài đăng đầu tiên của mình chưa?% 1 $ s."
+
+#: template-parts/content/content-none.php:10
+msgid "Get started here"
+msgstr "Bắt đầu ở đây"
+
+#: template-parts/content/content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-slider.php:68
+msgid "View Case"
+msgstr "Xem trường hợp"
+
+#: template-parts/content/content-work.php:32 
+#: droow_helper_plugin/inc/views/shortcode/dsnPosts.php:132
+msgid "View Project"
+msgstr "Xem dự án"
+
+#: template-parts/content/content.php:32
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: template-parts/content/content.php:40
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#: template-parts/footer/footer-cursor.php:10
+msgid "Scroll"
+msgstr "Cuộn"
+
+#: template-parts/footer/footer-cursor.php:13
+msgid "or hold"
+msgstr "hoặc giữ"
+
+#: template-parts/header/header-normal.php:17
+msgid "Scroll Down"
+msgstr "Cuộn xuống"
+
+#: template-parts/header/header-normal.php:19
+msgid "arrow right wight"
+msgstr "arrow right wight"
+
+#: template-parts/header/header-project.php:53
+msgid "View Website"
+msgstr "Xem trang web"
+
+#: template-parts/header/header-project2.php:5
+msgid "discover"
+msgstr "khám phá"
+
+#: template-parts/header/header-project2.php:7
+msgid "scroll to"
+msgstr "cuộn tới"
+
+#: droow_helper_plugin/inc/views/shortcode/dsnPosts.php:130
+msgid "View Post"
+msgstr "Xem bài viết"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/customizer-pages.php:53
+msgid "Droow Customize Option"
+msgstr "Tùy chọn Droow Customize"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/customizer-pages.php:54
+msgid "My Options Theme"
+msgstr "Chủ đề Tùy chọn của tôi"
+
+#. Author of the theme
+#: droow_helper_plugin/inc/resources/views/pages/options/Block-pages.php:10
+msgid "Design Grid"
+msgstr "Lưới thiết kế"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/ajax_options.php:6
+msgid "Ajax Options"
+msgstr "Tùy chọn Ajax"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/ajax_options.php:12
+msgid "Load Pages With Ajax"
+msgstr "Tải trang bằng Ajax"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/ajax_options.php:13
+msgid "When navigate like (menu , link) loads "
+msgstr "Khi điều hướng like (menu, link) tải"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/ajax_options.php:22
+msgid "Load Menu With Ajax"
+msgstr "Tải menu bằng Ajax"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/ajax_options.php:23
+msgid ""
+"When navigate from Menu loads the target content without reloading the "
+"current page."
+msgstr ""
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/event_smooth_scrolling.php:6
+msgid "Smooth Scrolling Option"
+msgstr "Tùy chọn cuộn mượt"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/event_smooth_scrolling.php:13
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:48
+msgid "Event Smooth Scrolling"
+msgstr "Sự kiện Smooth Scrolling"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/event_smooth_scrolling.php:14
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:49
+msgid ""
+"Distance. Use smaller value for shorter scroll and greater value for longer "
+"scroll"
+msgstr ""
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/footer_setting.php:26
+msgid "Footer Settings"
+msgstr "Cài đặt chân trang"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/footer_setting.php:33
+msgid "Footer Credits Text"
+msgstr "Văn bản tín dụng chân trang"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/footer_setting.php:34
+msgid ""
+"Allowed HTML Tags: a, em, br, strong, img, i. and you can use year dynamic "
+"add :y"
+msgstr ""
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/footer_setting.php:43
+msgid "Mobile"
+msgstr "Điện thoại di động"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/footer_setting.php:52
+msgid "E-mail"
+msgstr "E-mail"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/footer_setting.php:61
+msgid "Code JS Footer"
+msgstr "Chân trang mã JS"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:5
+msgid "General Options"
+msgstr "Tùy chọn chung"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:11
+msgid "Portfolio custom slug"
+msgstr "Sên tùy chỉnh danh mục đầu tư"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:12
+msgid "if you want your portfolio post type to have a custom slug in the url."
+msgstr "Nếu bạn muốn loại bài đăng portfolio của mình có một slug tùy chỉnh trong url."
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:21
+msgid "Page Preloader"
+msgstr "Trình tải trước trang"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:22
+msgid "Enable preloader mask while the page is loading."
+msgstr "Kích hoạt mặt nạ trình tải trước trong khi trang đang tải."
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:30
+msgid "Show Button Style Theme"
+msgstr "Hiển thị chủ đề kiểu nút"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:38
+msgid "Effect Cursor"
+msgstr "Con trỏ hiệu ứng"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:54
+msgid "Info Menu"
+msgstr "Menu Thông tin"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:58
+msgid "All Information"
+msgstr "Tất cả thông tin"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:63
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:68
+msgid "\"Add new\" (Info) "
+msgstr "Thêm mới \" (Thông tin) "
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/general_options.php:73
+msgid "Value"
+msgstr "Giá trị"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:6
+msgid "Header Image"
+msgstr "Hình ảnh tiêu đề"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:13
+msgid "Light Logo"
+msgstr "Logo ánh sáng"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:25
+msgid "Dark Logo"
+msgstr "Logo tối"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:37
+msgid "Logo Width"
+msgstr "Chiều rộng logo"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:38
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:88
+msgid "0 for auto width"
+msgstr "0 cho chiều rộng tự động"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:51
+msgid "Logo Height"
+msgstr "Chiều cao logo"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:52
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:102
+msgid "0 for auto Height"
+msgstr "0 cho chiều cao tự động"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:64
+msgid "Logo text size"
+msgstr "Kích thước văn bản logo"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:77
+msgid "Admin Login Logo"
+msgstr "Logo đăng nhập quản trị viên"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:87
+msgid "Admin Logo Width"
+msgstr "Chiều rộng biểu trưng quản trị"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:101
+msgid "Admin Logo Height"
+msgstr "Chiều cao biểu trưng quản trị"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:116
+msgid "Code HTML Header"
+msgstr "Tiêu đề HTML mã"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:129
+msgid "Code CSS Header"
+msgstr "Tiêu đề CSS mã"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/header_image.php:141
+msgid "Code JS Header"
+msgstr "Tiêu đề JS Code"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/map_setting.php:6
+msgid "Map Settings"
+msgstr "Cài đặt bản đồ"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/map_setting.php:14
+msgid "Map marker"
+msgstr "Điểm đánh dấu bản đồ"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/map_setting.php:22
+msgid "Google Maps API Key"
+msgstr "Khóa API Google Maps"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/map_setting.php:23
+msgid ""
+"Without it, the map may not be displayed. If you have an api key paste it "
+"here. https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY "
+msgstr ""
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:9
+msgid "Option Pages"
+msgstr "Trang tùy chọn"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:19
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:74
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:24
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:79
+msgid "Show"
+msgstr "Hiển thị"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:25
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:80
+msgid "Hide"
+msgstr "Ẩn"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:32
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:42
+msgid "Subtitle"
+msgstr "Phụ đề"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:50
+msgid "Description"
+msgstr "Mô tả"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/page_options.php:88
+msgid "Background Image"
+msgstr "Hình nền"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:6
+msgid "Share Links"
+msgstr "Chia sẻ liên kết"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:16
+msgid "Sharing Buttons"
+msgstr "Các nút chia sẻ"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:17
+msgid "enable you to add social share buttons to WordPress"
+msgstr "cho phép bạn thêm các nút chia sẻ xã hội vào WordPress"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/share.php:26
+msgid "This is Share Buttons"
+msgstr "Đây là Share Buttons"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:4
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:42
+msgid "Social Settings"
+msgstr "Cài đặt xã hội"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:11
+msgid "Display Social ( Footer )"
+msgstr "Mạng xã hội hiển thị (Chân trang)"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:15
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:28
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:51
+msgid "Social Name"
+msgstr "Tên xã hội"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:16
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:29
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:59
+msgid "initial Social Name"
+msgstr "Tên xã hội ban đầu"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:17
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:30
+#:  
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:66
+msgid "Icon Social"
+msgstr "Biểu tượng xã hội"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:24
+msgid "Display Social ( Slider )"
+msgstr "Mạng xã hội hiển thị (Slider)"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:37
+msgid "All Social"
+msgstr "Tất cả xã hội"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:46
+msgid "\"Add new\" (Social) "
+msgstr "Thêm mới \" (Xã hội) "
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:67
+msgid ""
+"You can control this icons from <a href=\"https://fontawesome.com/icons?"
+"d=gallery&m=free\" target=\"_blank\" >This Page </a> copy into class like "
+"fab fa-500px"
+msgstr ""
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:75
+msgid "URL"
+msgstr "URL"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:81
+msgid "Show In Slider"
+msgstr "Show In Slider"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/social_settings.php:88
+msgid "Show In Footer"
+msgstr "Show In Footer"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/typography.php:6
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/typography.php:12
+msgid "Event Typograph"
+msgstr "Người đánh máy sự kiện"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/typography.php:21
+msgid "Logo Font"
+msgstr "Phông chữ Logo"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/typography.php:53
+msgid "Primary Font"
+msgstr "Phông chữ chính"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/typography.php:88
+msgid "Heading Font"
+msgstr "Phông chữ tiêu đề"
+
+#: droow_helper_plugin/inc/resources/views/pages/customizer/block/typography.php:121
+msgid "Loading Title"
+msgstr "Đang tải tiêu đề"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/boxGallery.php:4
+msgid "Box Vertical Gallery"
+msgstr "Phòng trưng bày theo chiều dọc hộp"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/boxVertical.php:4
+msgid "Box Vertical With Image"
+msgstr "Hộp dọc có hình ảnh"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/Brand.php:4
+msgid "Brand"
+msgstr "Thương hiệu"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/contact.php:4
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/embeddedVideo.php:5
+msgid "Parallax Embedded Video"
+msgstr "Video nhúng thị sai"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/experience.php:4
+msgid "Experience"
+msgstr "Kinh nghiệm"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/featured-posts.php:4
+msgid "Featured Posts"
+msgstr "Bài viết nổi bật"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/gallery.php:4
+msgid "Justified Gallery"
+msgstr "Thư viện hợp lý"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/intro.php:4
+msgid "Introduction"
+msgstr "Giới thiệu"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/map.php:4
+msgid "Map"
+msgstr "Bản đồ"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/parallaxImage.php:5
+msgid "Parallax Image"
+msgstr "Hình ảnh thị sai"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/parallaxImage_with_box.php:5
+msgid "Image With Box Description"
+msgstr "Hình ảnh với mô tả hộp"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/service.php:4
+msgid "Service"
+msgstr "Dịch vụ"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/slider.php:4
+msgid "Slider"
+msgstr "Slider"
+
+#: droow_helper_plugin/inc/resources/views/pages/options/blocks/team.php:4
+msgid "Team"
+msgstr "Đội"
+
+#. Name of the theme
+msgid "Droow"
+msgstr "Droow"
+
+#. Description of the theme
+msgid ""
+"is a new portfolio concept for creative agencies and freelancers. Graphic "
+"designers, illustrators, photographers or any kind of creative is now able "
+"to create a quick and easy portfolio to showcase their work with a "
+"distinctive and creative touch."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/design_grid/portfolio"
+msgstr "https://themeforest.net/user/design_grid/portfolio"
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/design_grid"
+msgstr #. Author URI of the theme"https://themeforest.net/user/design_grid"msgstr ""
